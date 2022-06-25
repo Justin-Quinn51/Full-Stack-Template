@@ -24,7 +24,7 @@
 //10. Create heroku repo
 
 // heroku login
-// heroku create simple-rap-api
+// heroku create <project-name>
 // echo "web: node server.js" > Procfile
 // git add . 
 // git commit -m "changes"
