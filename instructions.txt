@@ -1,5 +1,5 @@
 //1. Initialize npm and install dependencies
-// express, dotenv, cors, mongodb, ejs, nodemon (--save-dev)
+// express, dotenv, cors, mongoose, ejs, nodemon (--save-dev)
 
 //2. Require dependencies in server.js
 
